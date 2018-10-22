@@ -1,3 +1,4 @@
+#badka ji zillla hila diyr tum toh
 import sys
 import os
 from PyQt5.QtWidgets import *
